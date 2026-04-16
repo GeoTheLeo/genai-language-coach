@@ -1,1 +1,3 @@
-# genai-language-coach
+## 📸 Demo
+
+![App Screenshot](assets/demo.png)
