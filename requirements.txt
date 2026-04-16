@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+requests
+openai
+langchain
+python-dotenv
+pydantic
+numpy
+torch
+transformers
+librosa
+chromadb
+sentence-transformers
